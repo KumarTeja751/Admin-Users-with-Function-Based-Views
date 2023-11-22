@@ -141,14 +141,12 @@ INSTALLED_APPS = [
 ```
 # OUTPUT : 
 User Profiles creation successful:
+![284584982-a0f7939e-0d34-467a-a75b-3f675e430d95](https://github.com/KumarTeja751/Admin-Users-with-Function-Based-Views/assets/144947756/03ec8a00-ff46-41f5-8103-e21be37eeacb)
 
-
-![image](https://github.com/SANTHAN-2006/ODD2023-WT-Ex-04-Django-Models/assets/80164014/a0f7939e-0d34-467a-a75b-3f675e430d95)
 
 Verifying the Admin Users :
+![284585224-cc0723dc-23b5-42cd-ba94-96a882d7c79d](https://github.com/KumarTeja751/Admin-Users-with-Function-Based-Views/assets/144947756/b0a4f7c6-11d9-44c9-950e-7fb9ea811865)
 
-
-![image](https://github.com/SANTHAN-2006/ODD2023-WT-Ex-04-Django-Models/assets/80164014/cc0723dc-23b5-42cd-ba94-96a882d7c79d)
 
 # RESULT : 
 Created a Django website with five users. Two users are to be staff users (including admin) and the other three users are non-staff users successfully
