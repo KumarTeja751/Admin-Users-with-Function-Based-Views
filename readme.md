@@ -120,7 +120,7 @@ python manage.py migrate
 Start the development server to run your Django application.
 python manage.py runserver
 
-# Step 9: Verify the Users
+# Step 8: Verify the Users
 You can verify that the users have been created with the specified attributes by checking the Django admin interface.
 
 Visit http://localhost:8000/admin/ 
